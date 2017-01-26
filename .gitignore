@@ -1,0 +1,5 @@
+week01_intro/Library/
+week01_intro/Builds/
+*.csproj
+*.userprefs
+*.sln
